@@ -1,6 +1,6 @@
 <span id="a">ellemieke@vankints</span>:<span id="b">~</span><span id="c">$</span> cd EllemiekeVanKints/<!-- laglaglaglaglaglag -->About_Me
 <span id="a">ellemieke@vankints</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglag -->ellemiekevankints.txt<br/><br/>
-My favorite quote, "<span id="k">The best way to predict the future to create it</span>". <!-- sjkfhskjf -->
+My favorite quote, "<span id="k">The best way to predict the future is to create it</span>". <!-- sjkfhskjf -->
 
 Hey there! I am Ellemieke Van Kints.<!-- laglaglaglaglaglaglaglaglaglaglaglaglag --><p>I am pursuing my Bachelor's in Computer Science and Statistics from the University of Georgia.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakfajasdfghjhgfkdlkfdadksalakfjla -->
 <p>I love to problem solve behind a computer screen and share ideas with like-minded people around me. I am passionate about space and sustainability, and one day I hope to be in a career that combines the two.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakfajasdfghjhgfkdlkfdadksalakfjla -->
