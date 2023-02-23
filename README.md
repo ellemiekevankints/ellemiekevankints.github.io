@@ -1,2 +1,2 @@
 # ellemiekevankints.github.io
-This is a terminal-based portfolio website.
+My terminal-styled portfolio website.
